@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'I bought a drone, and i loved it'
 colors: colors-a
-date: '2023-11-22'
+date: '2023-11-29'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
