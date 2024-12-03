@@ -69,7 +69,7 @@ sections:
       - type: Label
         label: Problem solving
       - type: Label
-        label: Microsoft Office
+        label: Visual Studio code
       - type: Label
         label: Next.js
       - type: Label
