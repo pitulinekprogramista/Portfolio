@@ -14,7 +14,7 @@ description: >-
   the Red Cross to get involved and make a difference.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG_0985.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
