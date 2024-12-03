@@ -14,14 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-
-      I’m a tech enthusiast who loves drones, 3D printing, and gaming. I’m
+      ##### I’m a tech enthusiast who loves drones, 3D printing, and gaming. I’m
       always up for a challenge, whether it’s fine-tuning a print or flying a
       drone across epic distances. I also believe in helping others, like that
       time I joined my dad to deliver appliances to flood victims. Work hard,
-      play hard, and give back—that’s my vibe. 
-
-
+      play hard, and give back—that’s my vibe.
 
     media:
       type: ImageBlock
