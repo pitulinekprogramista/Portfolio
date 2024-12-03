@@ -75,7 +75,7 @@ sections:
       - type: Label
         label: Controlling the group
       - type: Label
-        label: Swift
+        label: Lots of software and hardware
   - type: DividerSection
     styles:
       self:
