@@ -73,7 +73,7 @@ sections:
       - type: Label
         label: Basic Python
       - type: Label
-        label: C++
+        label: Controlling the group
       - type: Label
         label: Swift
   - type: DividerSection
