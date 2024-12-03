@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'First i bought a 3d printer, it is awesome'
 colors: colors-a
-date: '2023-11-29'
+date: '2023-03-29'
 client: ''
 description: >-
   I bought a drone and instantly fell in love with it. I spent all my savings,
