@@ -5,7 +5,7 @@ colors: colors-a
 date: '2023-11-29'
 client: Awesome client
 description: >-
-  next I bought a drone and instantly fell in love with it. I spent all my
+  Next I bought a drone and instantly fell in love with it. I spent all my
   savings, but it was totally worth it. Flying a drone had always been my dream,
   and now I’m living it. So far, I’ve flown 1,163 km, clocking 83 hours of
   non-stop flight time and completing around 700 flights. It’s been an
