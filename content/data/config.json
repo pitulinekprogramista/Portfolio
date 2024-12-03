@@ -74,16 +74,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "",
-            "emailAltText": "",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
