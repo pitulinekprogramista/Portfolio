@@ -16,7 +16,9 @@ sections:
     title: >-
       I’m a sailor, "Programer", "drone pilot" and a bunch of other impressive
       titles and buzz words.
-    subtitle: This is my space—I'm sharing it with ya'll to my passion for tech
+    subtitle: >-
+      This is my space and I'm sharing it with ya'll to show my passion for
+      tech, drones, 3d printing, sailing and lots of electronical stuff. Enjoy.
     styles:
       self:
         height: auto
