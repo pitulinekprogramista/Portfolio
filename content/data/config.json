@@ -42,12 +42,6 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
