@@ -12,7 +12,7 @@ description: >-
   finally comes together, the results are worth the hustle.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/IMG_20230324_204423.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
