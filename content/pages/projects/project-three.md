@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Next I bought a drone, and i loved it'
 colors: colors-a
 date: '2023-11-29'
-client: Awesome client
+client: ''
 description: >-
   Next I bought a drone and instantly fell in love with it. I spent all my
   savings, but it was totally worth it. Flying a drone had always been my dream,
