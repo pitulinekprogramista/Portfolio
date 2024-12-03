@@ -93,6 +93,7 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/'
+            showIcon: true
         styles:
           self:
             textAlign: left
