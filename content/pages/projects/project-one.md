@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'I bought a drone, and i loved it'
+title: 'First i bought a 3d printer, it is awesome'
 colors: colors-a
 date: '2023-11-29'
 client: ''
