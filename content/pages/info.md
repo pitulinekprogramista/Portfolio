@@ -95,7 +95,7 @@ sections:
             url: 'https://www.instagram.com/'
             showIcon: true
             icon: instagram
-            iconPosition: left
+            iconPosition: right
         styles:
           self:
             textAlign: left
