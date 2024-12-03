@@ -71,7 +71,7 @@ sections:
       - type: Label
         label: Visual Studio code
       - type: Label
-        label: Next.js
+        label: Basic Python
       - type: Label
         label: Netlify
       - type: Label
