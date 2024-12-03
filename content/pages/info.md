@@ -67,7 +67,7 @@ sections:
       - type: Label
         label: Sailing
       - type: Label
-        label: React
+        label: Problem solving
       - type: Label
         label: Microsoft Office
       - type: Label
