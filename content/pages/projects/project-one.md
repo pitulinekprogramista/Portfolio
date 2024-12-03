@@ -16,6 +16,6 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/IMG_20230324_204423.jpg
+  url: /images/IMG_20230325_090401.jpg
   altText: Project image
 ---
