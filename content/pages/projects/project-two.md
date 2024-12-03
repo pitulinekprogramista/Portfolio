@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: 'Latest nice thing: helping the flood victims'
 colors: colors-a
 date: '2024-10-05'
 client: ''
