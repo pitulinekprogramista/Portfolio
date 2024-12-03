@@ -13,11 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      I’m a tech enthusiast who loves drones, 3D printing, and gaming. I’m
+      always up for a challenge, whether it’s fine-tuning a print or flying a
+      drone across epic distances. I also believe in helping others, like that
+      time I joined my dad to deliver appliances to flood victims. Work hard,
+      play hard, and give back—that’s my vibe. 
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
