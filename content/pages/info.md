@@ -94,6 +94,7 @@ sections:
             label: Instagram
             url: 'https://www.instagram.com/'
             showIcon: true
+            icon: instagram
         styles:
           self:
             textAlign: left
