@@ -73,8 +73,6 @@ sections:
       - type: Label
         label: Basic Python
       - type: Label
-        label: Netlify
-      - type: Label
         label: Pancakes
       - type: Label
         label: C++
