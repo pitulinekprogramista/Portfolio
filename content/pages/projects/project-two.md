@@ -4,7 +4,14 @@ title: Another cool project
 colors: colors-a
 date: '2024-10-05'
 client: ''
-description: ''
+description: >-
+  To wrap it up, I once went on a charity trip to the mountains with my dad and
+  his friends to help flood victims. We delivered various household appliances
+  to families in need, and it was an incredibly rewarding experience. Helping
+  others is always worth it—if you get the chance, don’t hesitate to support
+  those who need a hand. Whether it’s donating, volunteering, or spreading the
+  word, every little bit counts! Check out local charities or organizations like
+  the Red Cross to get involved and make a difference.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
